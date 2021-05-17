@@ -1,0 +1,2 @@
+# ShapeAI_Ajmal_Fayiz
+Basic Python and Deep Learning-7 Days Hands on Bootcamp
